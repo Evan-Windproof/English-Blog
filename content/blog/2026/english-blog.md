@@ -5,7 +5,7 @@ date: 2026-11-27
 updated: 2026-11-27
 tags: [Hello]
 category: Hello
-slug: Hello
+slug: english-blog
 draft: false
 language: EN
 ---
