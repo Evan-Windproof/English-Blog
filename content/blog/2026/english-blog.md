@@ -6,6 +6,7 @@ updated: 2026-11-27
 tags: [Hello, blog]
 category: Hello
 slug: english-blog
+title: 'hello'
 draft: false
 language: EN
 ---
