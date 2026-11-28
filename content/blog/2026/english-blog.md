@@ -3,7 +3,7 @@ title: 'English Blog'
 description: 'Hello this is my english blog'
 date: 2026-11-27
 updated: 2026-11-27
-tags: [Hello]
+tags: [Hello, blog]
 category: Hello
 slug: english-blog
 draft: false
